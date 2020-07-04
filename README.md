@@ -5,9 +5,8 @@ A list of awesome newsletters I personally subscribe to and find worthwhile as a
 * [Node Weekly](http://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
 * [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 * [FrontEnd Focus](https://frontendfoc.us/). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
-* [HashBang Weekly](http://hashbangweekly.okgrow.com/). A curated newsletter for all things Meteor, React, & GraphQL.
-* [Ethereum Weekly](http://ethereumweekly.com/newsletter/). For all things Ethereum and its ecosystem.
-* [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
 * [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
+* [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
+* [Ethereum Weekly](http://ethereumweekly.com/newsletter/). For all things Ethereum and its ecosystem.
 
 Find more: https://github.com/vredniy/awesome-newsletters
