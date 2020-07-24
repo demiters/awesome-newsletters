@@ -1,4 +1,4 @@
-# Awesome Newsletters [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://api.travis-ci.org/demiters/awesome-newsletters.svg)](https://travis-ci.org/demiters/awesome-newsletters)
+# Awesome Newsletters [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Build Status](https://api.travis-ci.org/demiters/awesome-newsletters.svg)](https://travis-ci.org/demiters/awesome-newsletters)
 
 A list of awesome newsletters I personally subscribe to and find worthwhile as a full stack web developer and tech enthusiast.
 
@@ -9,6 +9,6 @@ A list of awesome newsletters I personally subscribe to and find worthwhile as a
 * [FreeCodeCamp](https://www.freecodecamp.org/). A weekly digest of popular articles and videos about learning (mostly) web development.
 * [DEV Digest](https://dev.to/). A weekly digest of recent posts on DEV based on selected interests.
 * [Trending Projects](https://www.trendingprojects.com/). A weekly email showcasing trending projects on GitHub.
-* [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly code-review related write-up.
+* [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly in-depth code-review related write-up.
 
 Find more: https://github.com/zudochkin/awesome-newsletters
