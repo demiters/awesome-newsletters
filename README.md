@@ -9,5 +9,6 @@ A list of awesome newsletters I personally subscribe to and find worthwhile as a
 * [FreeCodeCamp](https://www.freecodecamp.org/). A weekly digest of popular articles and videos about learning (mostly) web development.
 * [DEV Digest](https://dev.to/). A weekly digest of recent posts on DEV based on selected interests.
 * [Trending Projects](https://www.trendingprojects.com/). A weekly email showcasing trending projects on GitHub.
+* [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly code-review related write-up.
 
 Find more: https://github.com/zudochkin/awesome-newsletters
